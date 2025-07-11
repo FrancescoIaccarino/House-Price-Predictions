@@ -1,5 +1,5 @@
 # House-Price-Predictions
-Machine Learning model for house price prediction in Milan
+Machine Learning model for house price prediction
 
 In this project, the goal was to predict house prices in different Italian cities using two datasets. The first
 dataset, train.csv, contains data for one apartment for sale per row, and the target variable is the sale price.
